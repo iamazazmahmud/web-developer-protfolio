@@ -112,13 +112,22 @@ nav a {
     background: #FFF8F3;
     margin: 130px 0;
 }
-.about-info-container{
+
+.about-info-container {
     display: flex;
     justify-content: space-around;
 }
-.about-info{
+
+.about-info {
     text-align: center;
+    /* skill related styles */
+
 }
-#what-i-do-description{
+
+#what-i-do-description {
     padding: 30px 150px;
+}
+
+.skills-container {
+    display: flex;
 }
